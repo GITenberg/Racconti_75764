@@ -1,5 +1,8 @@
 _repo: Racconti_75764
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75764-h/images/cover.jpg
 creator:
   author:
     agent_name: Martini, Ferdinando
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42049
     wikipedia: https://en.wikipedia.org/wiki/Ferdinando_Martini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75764#Racconti
 gutenberg_issued: '2025-03-31'
 gutenberg_type: Text
 identifiers:
